@@ -27,5 +27,12 @@ namespace CHXD
             Functions.Disconnect();
             Application.Exit();
         }
+
+        private void hóaĐơnBánToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmHoaDonBan frm = new frmHoaDonBan();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }
