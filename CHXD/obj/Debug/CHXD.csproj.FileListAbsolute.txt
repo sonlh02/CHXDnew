@@ -30,3 +30,4 @@ D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.csproj.GenerateResource.cache
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.csproj.CoreCompileInputs.cache
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.exe
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.pdb
+D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.frmNhanVien.resources
