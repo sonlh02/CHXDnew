@@ -96,10 +96,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Quanlybanhang.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Quanlybanhang_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <DependentUpon>Quanlybanhang.mdf</DependentUpon>
     </Content>
   </ItemGroup>
