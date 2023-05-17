@@ -171,7 +171,7 @@
             this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox2.Size = new System.Drawing.Size(1470, 79);
+            this.groupBox2.Size = new System.Drawing.Size(1452, 79);
             this.groupBox2.TabIndex = 16;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Các chức năng";
@@ -286,7 +286,7 @@
             this.panel1.Location = new System.Drawing.Point(13, 303);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1444, 396);
+            this.panel1.Size = new System.Drawing.Size(1408, 420);
             this.panel1.TabIndex = 17;
             // 
             // dgvNhaCungCap
@@ -297,7 +297,7 @@
             this.dgvNhaCungCap.Margin = new System.Windows.Forms.Padding(4);
             this.dgvNhaCungCap.Name = "dgvNhaCungCap";
             this.dgvNhaCungCap.RowHeadersWidth = 51;
-            this.dgvNhaCungCap.Size = new System.Drawing.Size(1444, 392);
+            this.dgvNhaCungCap.Size = new System.Drawing.Size(1408, 416);
             this.dgvNhaCungCap.TabIndex = 0;
             this.dgvNhaCungCap.Click += new System.EventHandler(this.dgvNhaCungCap_Click);
             // 
@@ -340,7 +340,7 @@
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox1.Size = new System.Drawing.Size(1470, 216);
+            this.groupBox1.Size = new System.Drawing.Size(1452, 216);
             this.groupBox1.TabIndex = 15;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Nhà Cung Cấp";
@@ -349,7 +349,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1470, 712);
+            this.ClientSize = new System.Drawing.Size(1452, 736);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox1);
