@@ -19,7 +19,7 @@ namespace CHXD
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-            Class.Functions.Connect(); //Mở kết nối
+            //Class.Functions.Connect(); //Mở kết nối
         }
 
         private void mnuThoat_Click(object sender, EventArgs e)

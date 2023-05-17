@@ -14,3 +14,4 @@ C:\Project\CHXD\CHXD\obj\Debug\CHXD.pdb
 C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmKhachHang.resources
 C:\Project\CHXD\CHXD\obj\Debug\CHXD.csproj.ResolveComReference.cache
 C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmHoaDon.resources
+C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmDangNhap.resources
