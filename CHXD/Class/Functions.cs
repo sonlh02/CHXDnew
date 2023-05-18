@@ -1,18 +1,15 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Data;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using System.Data.SqlClient;
 using System.Windows.Forms;
-using Microsoft.Office.Interop.Excel;
-using DataTable = System.Data.DataTable;
-
+using System.Security.Cryptography.X509Certificates;
 namespace CHXD.Class
 {
-    internal class Functions
+    class Functions
     {
         public static SqlConnection con;
         public static void Connect()
@@ -28,7 +25,7 @@ namespace CHXD.Class
         }
         public static void Disconnect()
         {
-            if (con.State == ConnectionState.Open)
+            if(con.State== ConnectionState.Open)
             {
                 con.Close();
                 con.Dispose();
@@ -293,4 +290,3 @@ namespace CHXD.Class
         }
     }
 }
-

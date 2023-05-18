@@ -380,12 +380,18 @@
             this.panel1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.SuspendLayout();
+            // 
+            // frmKhachHang
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1404, 701);
+            this.Name = "frmKhachHang";
+            this.Text = "frmKhachHang";
             this.ResumeLayout(false);
-
         }
-
         #endregion
-
         private System.Windows.Forms.TextBox txtGioiTinh;
         private System.Windows.Forms.TextBox txtmakhachhang;
         private System.Windows.Forms.DateTimePicker dtpngaysinh;

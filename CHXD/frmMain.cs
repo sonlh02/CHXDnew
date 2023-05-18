@@ -19,7 +19,7 @@ namespace CHXD
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-            //Class.Functions.Connect(); //Mở kết nối
+            Functions.Connect();
         }
 
         private void mnuThoat_Click(object sender, EventArgs e)
@@ -68,6 +68,8 @@ namespace CHXD
         {
             frmBaoHanh frm = new frmBaoHanh(); //Khởi tạo đối tượng
             frm.ShowDialog(); //Hiển thị
+            Functions.Disconnect();
+            Application.Exit();
         }
     }
 }
