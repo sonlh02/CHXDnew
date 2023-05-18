@@ -31,7 +31,8 @@ D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.csproj.CoreCompileInputs.cache
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.exe
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.pdb
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.frmNhanVien.resources
+D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.frmXeDien.resources
+D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.frmBaoHanh.resources
 C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmDangNhap.resources
 C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmNhanVien.resources
-C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmNhaCungCap.resources
-C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmLoaiXe.resources
+C:\Project\CHXD\CHXD\obj\Debug\CHXD.frmXeDien.resources
