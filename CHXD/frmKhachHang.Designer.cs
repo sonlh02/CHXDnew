@@ -211,7 +211,7 @@
             this.btntim.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btntim.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btntim.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btntim.Location = new System.Drawing.Point(868, 18);
+            this.btntim.Location = new System.Drawing.Point(798, 20);
             this.btntim.Name = "btntim";
             this.btntim.Size = new System.Drawing.Size(76, 33);
             this.btntim.TabIndex = 12;
@@ -371,7 +371,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmKhachHang";
             this.Text = "frmKhachHang";
             this.Load += new System.EventHandler(this.frmKhachHang_Load);

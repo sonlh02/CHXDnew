@@ -32,3 +32,4 @@ D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.exe
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.pdb
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.frmNhanVien.resources
 D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.frmXeDien.resources
+D:\CuaHangXeDien\CHXDnew\CHXD\obj\Debug\CHXD.frmBaoHanh.resources
