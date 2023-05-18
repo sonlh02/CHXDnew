@@ -22,7 +22,7 @@ namespace CHXD.Class
             if (con.State != ConnectionState.Open)
             {
                 con.Open();
-                MessageBox.Show("Ket noi thanh cong!");
+                //MessageBox.Show("Ket noi thanh cong!");
             }
             else MessageBox.Show("Ket noi that bai!");
         }
@@ -276,6 +276,20 @@ namespace CHXD.Class
                     break;
             }
             return h;
+        }
+        public static DataSet laydulieu(string query, string table_name)
+        {
+            try
+            {
+                SqlConnection conn = new SqlConnection(Properties.Settings.Default.CHXDConnectionString);
+                SqlDataAdapter da = new SqlDataAdapter(query, conn);
+                DataSet ds = new DataSet();
+                da.Fill(ds, table_name);
+                return ds;
+            }
+            catch { }
+            return null;
+
         }
     }
 }
