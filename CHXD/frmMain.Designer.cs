@@ -97,7 +97,7 @@
             this.mnuXeDien.Size = new System.Drawing.Size(224, 26);
             this.mnuXeDien.Text = "Xe Điện";
             this.mnuXeDien.Click += new System.EventHandler(this.mnuXeDien_Click);
-            this.mnuFile,
+            this.mnuFile;
             this.danhMụcToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
