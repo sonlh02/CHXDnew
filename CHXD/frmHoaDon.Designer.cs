@@ -64,7 +64,6 @@
             this.txttongtien = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
             this.lblTongTien = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.btndong = new System.Windows.Forms.Button();
@@ -379,7 +378,6 @@
             this.panel4.Controls.Add(this.txttongtien);
             this.panel4.Controls.Add(this.label14);
             this.panel4.Controls.Add(this.lblTongTien);
-            this.panel4.Controls.Add(this.label13);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel4.Location = new System.Drawing.Point(3, 296);
             this.panel4.Name = "panel4";
@@ -412,16 +410,6 @@
             this.lblTongTien.Size = new System.Drawing.Size(66, 16);
             this.lblTongTien.TabIndex = 1;
             this.lblTongTien.Text = "Bằng chữ:";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.ForeColor = System.Drawing.Color.Red;
-            this.label13.Location = new System.Drawing.Point(35, 3);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(168, 16);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "Nháy đúp một dòng để xóa";
             // 
             // panel3
             // 
@@ -650,7 +638,6 @@
         private System.Windows.Forms.TextBox txttongtien;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label lblTongTien;
-        private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button btndong;
